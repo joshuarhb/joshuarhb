@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+# Visit my [personal website](https://www.joshuarhb.com)
 <!--
 **JoshuaRHB/JoshuaRHB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
