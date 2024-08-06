@@ -8,9 +8,11 @@
     - 💻 More Computer Science
     - 🌎 Foreign Languages
     - 🍳 Life Skills & Fun Things
- - 📩 You can reach out to me via [Email](mail:me@joshuarhb.com) or [LinkedIn](https://www.linkedin.com/in/joshuarhb/)
+ - 📩 You can reach out to me via [Email](mailto:me@joshuarhb.com) or [LinkedIn](https://www.linkedin.com/in/joshuarhb/)
  - 🌐 Visit my [personal website](https://joshuarhb.com/)
 
 ---
 
 Make your own [profile header](https://leviarista.github.io/github-profile-header-generator/) and [octocat](https://myoctocat.com/build-your-octocat/)
+
+<!-- https://dev.to/parth_johri/create-an-attractive-github-profile-readme-noj -->
