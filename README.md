@@ -1,7 +1,6 @@
 ![Header](./assets/github-header-image.png)
 
 ---
-
  - 🌍 50% English and 50% Irish, living in Estonia
  - 🏫 I'm currently studying my [Master's in Software Engineering](https://ut.ee/en/curriculum/software-engineering) at the [University of Tartu](https://ut.ee/et), graduating in 2026
   - 🌞 Always trying to learn new things
@@ -10,16 +9,16 @@
     - 🍳 Life Skills & Fun Stuff
  - 🌐 Visit my [personal website](https://joshuarhb.com/)
 
+---
 ### 🔗 Connect with me:
+[![Linktree](https://img.shields.io/badge/-Linktree-FF5722?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/joshuarhb)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuarhb/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:me@joshuarhb.com)
-[![Linktree](https://img.shields.io/badge/-Linktree-FF5722?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/joshuarhb)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/joshuarhb/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/joshrhb)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/joshuarhb)
 
 ---
-
 ### 🛠️ Technical Skills:
 **Languages:**
 <br>
