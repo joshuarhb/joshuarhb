@@ -1,4 +1,4 @@
-[![Header](./assets/github-header-image.png)]#
+![Header](./assets/github-header-image.png)
 
 ---
  - 🌍 50% English and 50% Irish, living in Estonia
