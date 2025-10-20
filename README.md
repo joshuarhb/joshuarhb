@@ -31,3 +31,6 @@
 ---
 
 <sub>Made with [GitHub Profile Header Generator](https://leviarista.github.io/github-profile-header-generator/)</sub>
+Make your own [profile header](https://leviarista.github.io/github-profile-header-generator/) and [octocat](https://myoctocat.com/build-your-octocat/)
+
+<!-- https://dev.to/parth_johri/create-an-attractive-github-profile-readme-noj -->
