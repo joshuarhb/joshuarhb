@@ -27,7 +27,3 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
-
----
-
-<sub>Made with [GitHub Profile Header Generator](https://leviarista.github.io/github-profile-header-generator/)</sub>
